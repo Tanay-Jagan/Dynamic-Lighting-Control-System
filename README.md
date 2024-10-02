@@ -8,4 +8,4 @@ Files Include:
 All code files are in the .ino format
 
 Experimental procedure details for AC_Power_Test:
-The argument passed to the delayMicroseconds function on line ___ was changed to take readings for different phase delays
+The argument passed to the delayMicroseconds function on line 40was changed to take readings for different phase delays
